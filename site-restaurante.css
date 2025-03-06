@@ -1,0 +1,15 @@
+header {
+background-color: #090f13;
+text-align: center;
+padding: 20px;
+display:flex;
+justify-content: center;
+gap: 20px;
+align-items: center;
+}
+
+header h1 {
+    color: #f2eab7;
+    font-size: 45px;
+
+}
